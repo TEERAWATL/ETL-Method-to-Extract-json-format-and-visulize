@@ -8,7 +8,8 @@ These instructions will guide you on how to set up and run the project in a Jupy
 ## Prerequisites
 You will need to have the following packages installed:
 
-.pandas 
+.pandas
+
 .plotly
 
 ## Project Structure
