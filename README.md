@@ -8,8 +8,8 @@ These instructions will guide you on how to set up and run the project in a Jupy
 ## Prerequisites
 You will need to have the following packages installed:
 
--pandas 
--plotly
+.pandas 
+.plotly
 
 ## Project Structure
 The project consists of a Jupyter Notebook that demonstrates the ETL process and a JSON file containing the data.
